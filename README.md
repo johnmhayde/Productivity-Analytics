@@ -14,4 +14,5 @@ the command `python get_email.py`
 ## Requirements
 Must have the following installed:  
 `Python3`  
-`Django`  
+`Django`
+`django-crispy-forms`
