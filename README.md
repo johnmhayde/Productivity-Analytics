@@ -14,5 +14,10 @@ the command `python get_email.py`
 ## Requirements
 Must have the following installed:  
 `Python3`  
-`Django`
+`Django`  
 `django-crispy-forms`
+### Personal Use
+Note: this project currently requires editing the conf.ini file to add your personal
+email information. The project is not ready for usage other than on a personal machine.
+2FA will need to be implemented with Gmail before the project can be safely hosted
+on a public access point. 
